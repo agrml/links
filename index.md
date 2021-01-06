@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Michael Agranovskiy's personal page
-description: [https://telegram.me/agrml](https://telegram.me/agrml)
+description: @agrml on telegram
 ---
 
 ## Blog accounts
