@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Michael Agranovskiy (@agrml) personal page
+title: Michael Agranovskiy's personal page
+description: https://telegram.me/agrml
 ---
 
 ## Blog accounts
