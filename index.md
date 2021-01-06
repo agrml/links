@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Michael Agranovskiy (@agrml) personal page
-description: ""
 ---
 
 ## Blog accounts
