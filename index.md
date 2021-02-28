@@ -10,3 +10,7 @@ description: agrml on telegram
 * [vk](https://vk.com/agrml) – same but no related photos were found
 * [medium](https://medium.com/@agrml) – sharing expertise
 * [drive2](https://www.drive2.ru/r/skoda/yeti/566300716180703074/) – car
+
+
+## Personal initiatives
+* [Stuff sharing](./stuff-sharing.html).

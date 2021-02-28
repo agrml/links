@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stuff sharing
-description: hmm
+description: Let's save money and the planet
 ---
 
 Some belongings have too specific purposes, so we use them few times a year or even rarely.
@@ -25,7 +25,7 @@ So you don't need to leave me a deposit, and you don't need to pay me. Except a 
 
 **Sport**
 
-* cross-country skiing (I'm 1.83m long and have 46 foot size)
+* cross-country skiing
 * mountain bike
 * scooter (самокат без мотора)
 * hiking backpack 75l
@@ -33,3 +33,5 @@ So you don't need to leave me a deposit, and you don't need to pay me. Except a 
 * portable gas-stove burner and a set of portable pans
 
 **P.s. I hope you will also create a list like this**
+
+[back](./)
