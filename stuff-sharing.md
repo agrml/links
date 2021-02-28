@@ -13,7 +13,7 @@ I don't like **renting stuff**: it is expensive, or you condition of the stuff i
 If I know you, I would lend you a hiking backpack for free: you would not steal it and if you break it you surely buy me a new one.
 So you don't need to leave me a deposit, and you don't need to pay me. Except a chocolate bar for wearing out the backpack and a cup of coffee as a "thank you" :)
 
-###The list
+## The list
 
 **Repairs**
 

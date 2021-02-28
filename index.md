@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Michael Agranovskiy's personal page
-description: agrml on telegram
+title: Michael Agranovskiy
+description: Software developer, IT enthusiast and life researcher
 ---
 
-## Blog accounts
+
+## Blogs
 
 * [instagram](http://instagram.com/agrml) – traveling, life and random thoughts
 * [vk](https://vk.com/agrml) – same but no related photos were found
@@ -13,4 +14,4 @@ description: agrml on telegram
 
 
 ## Personal initiatives
-* [Stuff sharing](./stuff-sharing.html).
+* [Stuff sharing](./stuff-sharing.html)
