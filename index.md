@@ -4,6 +4,9 @@ title: Michael Agranovskiy
 description: Software developer, IT enthusiast and life researcher
 ---
 
+> 🎁[WISHLIST](https://docs.google.com/document/d/1oV54zReFuRZZSFJDU9zOQFv8ZfgUL3KWEbWkDhHY-ew/edit?usp=sharing)
+
+[@agrml](https://t.me/agrml) - request CV or chit-chat with me
 
 ## Blogs
 
