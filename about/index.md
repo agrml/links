@@ -23,3 +23,16 @@ Available as a mentor.
 	<img src="/assets/img/lifestyle-3.jpg">
 	<figcaption>Lifestyle and hobbies</figcaption>
 </figure>
+
+
+
+{% highlight liquid %}
+{% raw %}
+{% capture images %}
+	assets/img/lifestyle-1.jpg
+	/assets/img/lifestyle-1.jpg
+	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=3 %}
+{% endraw %}
+{% endhighlight %}
