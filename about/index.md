@@ -26,7 +26,6 @@ Available as a mentor.
 
 
 
-{% highlight liquid %}
 {% raw %}
 {% capture images %}
 	assets/img/lifestyle-1.jpg
@@ -35,4 +34,3 @@ Available as a mentor.
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
 {% endraw %}
-{% endhighlight %}
