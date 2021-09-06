@@ -3,8 +3,13 @@ layout: default
 title: Michael Agranovskiy
 description: Software developer, IT enthusiast and life researcher
 ---
+[@agrml](https://t.me/agrml) - request CV or chit-chat with me. Available for mentoring.
 
-[@agrml](https://t.me/agrml) - request CV or chit-chat with me
+I'm a 5 years experienced software developer, mostly working with Python backends.
+* I'm doing my best for [bestdoctor.ru](bestdoctor.ru)
+* Previously – tech lead in [domclick.ru](domclick.ru) (SberBank) [Python, aiohttp, SQL] 
+* Previously – Yandex intranet department [Python, Django, Docker]
+* Had experience with computer networking and C++
 
 ## Blogs
 
@@ -12,11 +17,6 @@ description: Software developer, IT enthusiast and life researcher
 * [vk](https://vk.com/agrml) – same but without photos
 * [medium](https://medium.com/@agrml) – sharing expertise
 * [drive2](https://www.drive2.ru/r/skoda/yeti/566300716180703074/) – car
-
-## Public talks
-
-* Master of PyCharm. The way to thinks about the smartest Python IDE available for achieving the maximum outcome.
-_Please request the slides in person. There was some Yandex NDA content (it was an internal talk). Without these examples the slides may require some additional comments._
 
 
 
