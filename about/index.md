@@ -17,9 +17,12 @@ I'm a 5 years experienced software developer from Moscow, mostly working with Py
 
 Available as a mentor.
 
-{% capture images %}
-	https://photos.google.com/share/AF1QipN9eU2XVmDKvINIK30dMg8Hjg3bN8kidNH72XgvV0_ZtPTcGgIoGy0iaMlOIhXcSQ/photo/AF1QipPdGhSXQ_wzdAlHORCwFyboZi9aZxCtOquTegYB?key=U1FNYzVqRFFHbVBfSmEwd3B3anNhY0pnR0lsUFVB
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+<figure class="third">
+	<img src="/assets/img/lifestyle-1.jpg">
+	<img src="/assets/img/lifestyle-2.jpg">
+	<img src="/assets/img/lifestyle-3.jpg">
+	<img src="/assets/img/lifestyle-4.jpg">
+	<img src="/assets/img/lifestyle-5.jpg">
+	<img src="/assets/img/lifestyle-6.jpg">
+	<figcaption>Lifestyle and hobbies</figcaption>
+</figure>
