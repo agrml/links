@@ -15,5 +15,4 @@ I'm a 5 years experienced software developer from Moscow, mostly working with Py
 * Previously – Yandex intranet department [Python, Django, Docker]
 * Had experience with computer networking and C++
 
-Not looking for job, but see forward for relocation.
 Available as a mentor.
