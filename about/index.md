@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><a href="https://t.me/agrml"><b>@agrml</b></a> – request CV or chit-chat with me.</center>
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I'm a 5 years experienced software developer from Moscow, mostly working with Python backends. [Here [in Russian]](https://agrml.medium.com/%D0%B1%D1%8B%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%BC-dc10d1781661) you can read what I value most in colleagues.
+* Currently, I'm doing my best for [bestdoctor.ru](bestdoctor.ru)
+* Previously – tech lead in [domclick.ru](domclick.ru) (SberBank) [Python, aiohttp, SQL] 
+* Previously – Yandex intranet department [Python, Django, Docker]
+* Had experience with computer networking and C++
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Not looking for job, but see forward for relocation.
+Available as a mentor.
