@@ -21,8 +21,5 @@ Available as a mentor.
 	<img src="/assets/img/lifestyle-1.jpg">
 	<img src="/assets/img/lifestyle-2.jpg">
 	<img src="/assets/img/lifestyle-3.jpg">
-	<img src="/assets/img/lifestyle-4.jpg">
-	<img src="/assets/img/lifestyle-5.jpg">
-	<img src="/assets/img/lifestyle-6.jpg">
 	<figcaption>Lifestyle and hobbies</figcaption>
 </figure>
