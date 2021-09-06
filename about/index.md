@@ -17,19 +17,13 @@ I'm a 5 years experienced software developer from Moscow, mostly working with Py
 
 Available as a mentor.
 
-<figure class="third">
-	<img src="/assets/img/lifestyle-1.jpg">
-	<img src="/assets/img/lifestyle-2.jpg">
-	<img src="/assets/img/lifestyle-3.jpg">
-	<figcaption>Lifestyle and hobbies</figcaption>
-</figure>
-
-
-
 {% capture images %}
-	assets/img/lifestyle-1.jpg
-	/assets/img/lifestyle-1.jpg
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
+	https://agrml.github.io/me/assets/img/lifestyle-1.jpg
+	https://agrml.github.io/me/assets/img/lifestyle-2.jpg
+	https://agrml.github.io/me/assets/img/lifestyle-3.jpg
+	https://agrml.github.io/me/assets/img/lifestyle-4.jpg
+	https://agrml.github.io/me/assets/img/lifestyle-5.jpg
+	https://agrml.github.io/me/assets/img/lifestyle-6.jpg
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Lifestyle and hobbies" cols=3 %}
 
