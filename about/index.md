@@ -15,7 +15,7 @@ I'm a 5 years experienced software developer from Moscow, mostly working with Py
 * Previously – Yandex intranet department [Python, Django, Docker]
 * Had experience with computer networking and C++
 
-Available as a mentor.
+Available as a [mentor](https://solvery.io/mentor/agrml).
 
 {% capture images %}
 	https://agrml.github.io/me/assets/img/lifestyle-1.jpg
