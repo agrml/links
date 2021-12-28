@@ -15,6 +15,8 @@ I'm a 5 years experienced software developer from Moscow, mostly working with Py
 * Previously – Yandex intranet department [Python, Django, Docker]
 * Had experience with computer networking and C++
 
+Author and lecturer of an online course: [Developing backend using Django](https://agrml.github.io/me/assets/files/course-structure.pdf).
+
 Available as a [mentor](https://solvery.io/mentor/agrml).
 
 {% capture images %}
