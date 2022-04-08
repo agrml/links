@@ -15,7 +15,7 @@ Despite backend development on Python and Ruby (coming soon), I have some experi
 * Currently, I'm doing my best for [Shopify](https://shopify.com) as a backend developer [Ruby on Rails, GraphQL, Google Cloud]
 * Previously - senior backend developer in the best health insurance service in Russia, [BestDoctor](https://bestdoctor.ru) [Python, Django]
 * Previously – tech lead in [domclick.ru](https://domclick.ru) (SberBank) [Python, aiohttp, SQL] 
-* Previously – Yandex intranet department [Python, Django]
+* Previously – backend developer at Yandex, in the intranet department [Python, Django]
 * Had experience with computer networking and C++
 
 Author and lecturer of an online course: [Developing backend using Django](https://agrml.github.io/me/assets/files/course-structure.pdf).
